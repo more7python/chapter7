@@ -1,10 +1,11 @@
 # dirlister.py
 
+__version__ = "0.1"
+
 import os
 
 def run(**args):
 
-    version = "0.1"
     print "[*] Dirlister module."
     files = os.listdir(".")
     

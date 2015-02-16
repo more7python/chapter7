@@ -1,5 +1,7 @@
 # environment.py
 
+__version__ = "0.1"
+
 import os
 
 def run(**args):
